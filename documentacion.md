@@ -84,6 +84,7 @@ Sin querer le he vuelto a llamar segundo commit.
 
 #### 20. Subir los cambios al repositorio remoto.
 
+![](Imagenes/Commit%205.PNG)
 
 
 
